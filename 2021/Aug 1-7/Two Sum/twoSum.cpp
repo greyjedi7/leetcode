@@ -19,6 +19,6 @@ int main(){
     vector<int> input {
         2,7,11,15
     };
-
+    
     return 0;
 }
